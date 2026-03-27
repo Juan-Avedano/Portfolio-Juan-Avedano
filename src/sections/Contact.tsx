@@ -1,6 +1,5 @@
 import React, { useRef, useState } from "react";
 import {
-  Mail,
   Linkedin,
   Github,
   Send,
