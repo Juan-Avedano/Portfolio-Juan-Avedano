@@ -1,0 +1,16 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}
+:root {
+  /* Opcional: Podés definir fuentes aquí */
+  font-family: "Inter", system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+@variant dark (&:where(.dark, .dark *));
+
+@config "../tailwind.config.js";
