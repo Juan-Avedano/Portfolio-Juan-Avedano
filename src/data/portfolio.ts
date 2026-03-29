@@ -24,7 +24,7 @@ export const PORTFOLIO_DATA = {
     linkedin: "https://www.linkedin.com/in/juan-cruz-avedano-165b90239/",
     github: "https://github.com/Juan-Avedano",
     about:
-      "Software Developer especializado en el desarrollo de Backend robustos y escalables con Python (FastAPI/Flask). Cuento con una sólida base en el ecosistema React + TypeScript, lo que me permite integrar APIs eficientes con interfaces de usuario modernas y agilizar los flujos de desarrollo corporativos.",
+      "Mi diferencial combina el rigor técnico con una trayectoria probada en el liderazgo de equipos y gestión de objetivos, aportando comunicación asertiva y resolución de problemas bajo presión.",
   },
 
   skillGroups: [
