@@ -17,7 +17,7 @@ import { Database } from "lucide-react";
 
 export const PORTFOLIO_DATA = {
   profile: {
-    cvUrl: "/cv-juan-avedano.pdf", // Ruta directa al archivo en public
+    cvUrl: "/Cv_Avedano_Juan_Cruz_Backend.pdf", // Ruta directa al archivo en public
     name: "Juan Cruz Avedano",
     title: "Fullstack Developer | Python & React Specialist",
     location: "Córdoba, Argentina",
