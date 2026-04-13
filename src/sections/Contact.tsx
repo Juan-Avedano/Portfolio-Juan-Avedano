@@ -25,10 +25,10 @@ const Contact = () => {
     // CONFIGURACIÓN DE EMAILJS
     emailjs
       .sendForm(
-        "service_ra5bvoo", // Reemplazá con tu ID
-        "template_vrasaoi", // Reemplazá con tu ID
+        "service_fmhd1yl", // Reemplazá con tu ID
+        "template_jz7vuko", // Reemplazá con tu ID
         formRef.current,
-        "aMYv3zce5TVOhrcNK", // Reemplazá con tu Key
+        "7o_nhYBNkiJQlZZBL", // Reemplazá con tu Key
       )
       .then(() => {
         setStatus("success");
